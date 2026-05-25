@@ -1,1 +1,9 @@
-
+Llevar un registro de versiones con Git es una práctica innegociable
+en el desarrollo moderno porque actúa como una red de seguridad.
+A medida que un proyecto crece, es común cometer errores o romper
+funcionalidades que antes operaban de manera correcta en el sistema.
+Gracias al historial de commits, podemos rastrear exactamente cuándo
+y dónde se introdujo un fallo, permitiéndonos revertir el código
+a un estado funcional de forma casi instantánea y sin estrés.
+Igualmente, este registro organiza el trabajo en equipo, evitando
+que los avances de un programador borren el progreso de sus compañeros.
