@@ -1,1 +1,10 @@
-
+La ciudadanía digital implica actuar con ética y responsabilidad en internet,
+comprendiendo que nuestras acciones tienen un impacto real en la sociedad.
+Al verificar la información antes de compartirla, evitamos la propagación
+de noticias falsas y contribuimos a un entorno digital mucho más seguro.
+Esta misma responsabilidad se aplica en el ámbito del desarrollo de software
+cuando utilizamos sistemas de control de versiones como Git y plataformas como GitHub.
+Estas herramientas nos exigen ser organizados, transparentes y colaborativos,
+documentando cada paso de nuestro trabajo técnico mediante el uso de commits.
+En conclusión, tanto en la participación ciudadana como en la programación,
+la trazabilidad y el pensamiento estructurado son fundamentales para el éxito.
