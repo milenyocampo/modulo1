@@ -1,1 +1,9 @@
-
+El uso de la terminal es una competencia esencial en la programación,
+ya que proporciona un nivel de control y velocidad que las interfaces
+gráficas tradicionales no pueden igualar. Al navegar y gestionar
+nuestros archivos desde la consola, comprendemos de manera más
+profunda la estructura real de nuestros proyectos de software.
+Además, la terminal es la base para ejecutar herramientas avanzadas,
+automatizar procesos de desarrollo y desplegar aplicaciones web.
+Dominar estos comandos básicos de navegación nos prepara para
+enfrentar entornos de trabajo profesionales y manejar servidores remotos.
