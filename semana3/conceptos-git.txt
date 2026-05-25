@@ -1,1 +1,8 @@
+Repositorio:
+Un repositorio funciona como una carpeta inteligente que almacena tu proyecto y rastrea cada modificación a lo largo del tiempo. Es el núcleo donde vive tu código, y puede existir de manera local en tu computadora o alojado en la nube.
 
+Commit:
+Un commit representa una confirmación oficial de los cambios que has hecho en tus archivos en un momento dado. Funciona como un punto de restauración seguro al que siempre puedes regresar si algo sale mal, acompañado de un mensaje explicativo.
+
+Push:
+El comando push se encarga de subir todas las confirmaciones locales (commits) a un servidor remoto, como GitHub. Es el paso final para asegurar que tu trabajo esté respaldado en línea y disponible para otros colaboradores.
